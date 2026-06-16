@@ -7,12 +7,12 @@ La aplicación permite:
 - Crear Tours con sus atributos; nombre, tipo, duración, precio y cupos.
 - Almacenar los tours en ArrayList.
 - Realizar búsquedas y filtrados por:
-   Tipo de tour (gastronómico, lacustre, aventura, cultural, relax)
-   Precio mínimo
-   Disponibilidad de cupos
-   Agregar nuevos tours en memoria
+   Tipo de tour (gastronómico, lacustre, aventura, cultural, relax).
+   Precio mínimo.
+   Disponibilidad de cupos.
+   Agregar nuevos tours en memoria.
 
-
+Estructura de Llanquihue Tour:
 LlanquihueTourApp/
 ----|src/
 ------| model/
@@ -27,7 +27,7 @@ LlanquihueTourApp/
 |-- .gitignore
 
 
-   Instrucciones para ejecutar clase Main
+   Instrucciones para ejecutar clase Main:
 
    1) Ejecutar Intellij IDEA.
    2) Seeccionar File -> Open.
