@@ -1,0 +1,5 @@
+Tour Cultural Frutillar;cultural;5;55000;15
+Navegación Bahía Puerto Montt;lacustre;3;35000;20
+Circuito Cascadas de Petrohué;aventura;7;70000;10
+Degustación Sabores del Sur;gastronomico;4;60000;6
+Recorrido Patrimonial Llanquihue;cultural;3;30000;25
